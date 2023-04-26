@@ -148,3 +148,25 @@
 [INFO ] 2023-04-25 17:10:06.842 [main] Baseclass - Login passed
 [INFO ] 2023-04-25 17:10:12.639 [main] Baseclass - user name provided
 [INFO ] 2023-04-25 17:10:12.856 [main] Baseclass - password provided
+[INFO ] 2023-04-26 14:01:49.957 [main] Baseclass - URL is opened
+[INFO ] 2023-04-26 14:01:50.145 [main] Baseclass - Entered username
+[INFO ] 2023-04-26 14:01:50.457 [main] Baseclass - Entered password
+[INFO ] 2023-04-26 14:01:55.830 [main] Baseclass - User name is provided
+[INFO ] 2023-04-26 14:01:55.959 [main] Baseclass - Password is provided
+[INFO ] 2023-04-26 14:02:50.411 [main] Baseclass - URL is opened
+[INFO ] 2023-04-26 14:02:50.707 [main] Baseclass - Entered username
+[INFO ] 2023-04-26 14:02:50.798 [main] Baseclass - Entered password
+[INFO ] 2023-04-26 14:02:57.291 [main] Baseclass - User name is provided
+[INFO ] 2023-04-26 14:02:57.400 [main] Baseclass - Password is provided
+[INFO ] 2023-04-26 14:03:06.809 [main] Baseclass - providing customer details....
+[INFO ] 2023-04-26 14:03:16.947 [main] Baseclass - validation started....
+[INFO ] 2023-04-26 14:03:17.004 [main] Baseclass - test case passed....
+[INFO ] 2023-04-26 14:04:42.661 [main] Baseclass - URL is opened
+[INFO ] 2023-04-26 14:04:43.153 [main] Baseclass - Entered username
+[INFO ] 2023-04-26 14:04:43.260 [main] Baseclass - Entered password
+[INFO ] 2023-04-26 14:04:47.533 [main] Baseclass - Test is passed
+[INFO ] 2023-04-26 14:04:52.622 [main] Baseclass - User name is provided
+[INFO ] 2023-04-26 14:04:52.720 [main] Baseclass - Password is provided
+[INFO ] 2023-04-26 14:05:02.313 [main] Baseclass - providing customer details....
+[INFO ] 2023-04-26 14:05:14.126 [main] Baseclass - validation started....
+[INFO ] 2023-04-26 14:05:14.183 [main] Baseclass - test case passed....

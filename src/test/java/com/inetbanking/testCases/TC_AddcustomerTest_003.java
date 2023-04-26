@@ -25,7 +25,7 @@ public class TC_AddcustomerTest_003 extends Baseclass {
 		AddCustomerPage addcust = new AddCustomerPage(driver);
 
 		addcust.clickAddNewCustomer();
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		
 		Actions act = new Actions(driver);
 //		act.doubleClick().build().perform();
@@ -50,7 +50,7 @@ public class TC_AddcustomerTest_003 extends Baseclass {
 		addcust.custpassword("acdef");
 		addcust.custsubmit();
 
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 
 		logger.info("validation started....");
 
